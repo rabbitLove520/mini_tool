@@ -1,5 +1,6 @@
 # 项目
-一个查看windows主板，CPU等信息的小工具。
+一个查看windows主板，CPU等信息的小工具。  
+![主界面](https://github.com/user-attachments/assets/a5b3d26e-6ae0-4c96-aa38-0a2ddcf40f0a)
 
 # Prerequisite
 * [MinGW-W64-builds](https://github.com/niXman/mingw-builds-binaries/releases)，我用的是**MinGW-W64 GCC-8.1.0**。
